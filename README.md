@@ -15,12 +15,16 @@ Licence: CC0 see licence file (open, non copyright, do what you like, public dom
 - vicious bullies
 - destructo-critics  (1)
 - god's chosen soldier in the great jihad (2)
-- McCarthyist
+- McCarthyist (or scientific McCarthyites)
 - second stringers
 - replication police
 - Nazis
 - Fascists
 - Maffia
+- shameless little bullies
+- mean, shrill, angry nothings
+- whiners
+- the Stasi
 
 
 
@@ -28,24 +32,26 @@ Licence: CC0 see licence file (open, non copyright, do what you like, public dom
 ## What do these methodological terrorist do?
 
 - destroy lives
-- force graduates out of academia
-- assistant professors afraid to come up for tenure
+- force graduates out of academia (1)
+- assistant professors afraid to come up for tenure (1)
 - colleagues at all career stages are leaving the field because of the sheer adversarial viciousness
-- attack the person, not the work ( this is bad by the way)
-- mid-career people wondering how to protect their labs
-- senior faculty retiring early
+- attack the person, not the work (1) ( this is bad by the way)
+- mid-career people wondering how to protect their labs (1)
+- senior faculty retiring early (1)
 - behaving in seriously unethical ways
-- unmoderated personal attacks
+- unmoderated personal attacks (1)
+- engaged in vicious, chilling behavior
+- uncurated, unfiltered trash-talk (1)
 
 
 
 ## Sources
 
-1: column for the newsletter APS Observer [leaked source](https://www.dropbox.com/s/9zubbn9fyi1xjcu/Fiske%20presidential%20guest%20column_APS%20Observer_copy-edited.pdf)
-2: The Seven Deadly Sins of Psychology - Chris Chambers [Buy on amazon](https://www.amazon.com/Seven-Deadly-Sins-Psychology-Scientific/dp/0691158908)[Chris Chambers page](http://psych.cf.ac.uk/contactsandpeople/chambersc1.php)
+- 1: column for the newsletter APS Observer [leaked source](https://www.dropbox.com/s/9zubbn9fyi1xjcu/Fiske%20presidential%20guest%20column_APS%20Observer_copy-edited.pdf)
+- 2: The Seven Deadly Sins of Psychology - Chris Chambers [Buy his book on amazon](https://www.amazon.com/Seven-Deadly-Sins-Psychology-Scientific/dp/0691158908) [Chris Chambers' university page](http://psych.cf.ac.uk/contactsandpeople/chambersc1.php)
 
 
 ### Notes:
 
-I don't think Susan Friske is a bad editor, bad person or bad scientist. I dont know anything about her. She does not
+I don't think Susan Friske is a bad editor, bad person or bad scientist. In fact, I dont know anything about her. She does not
 deserve the hate and this is not a direct attack on her, cyberbullying is not a joke, I just really really like the names. 
