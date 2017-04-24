@@ -2,7 +2,7 @@
 An extensive list of namecalling for meta-researchers.
 This is an attempt to collect all the names people have been called for pointing out mistakes in other peoples
 work. 
-If you'd like to add a name, click on the pencil icon, edit the file and click submit (make a pull request).
+If you'd like to add a name, click on [this link](https://github.com/RMHogervorst/methodologicalterroristnames/edit/master/README.md) or the pencil icon, edit the file and click submit (make a pull request).
 
 Licence: CC0 see licence file (open, non copyright, do what you like, public domain)
 
@@ -25,6 +25,7 @@ Licence: CC0 see licence file (open, non copyright, do what you like, public dom
 - mean, shrill, angry nothings
 - whiners
 - the Stasi
+- data detectives (3)
 
 
 
@@ -48,8 +49,8 @@ Licence: CC0 see licence file (open, non copyright, do what you like, public dom
 ## Sources
 
 - 1: column for the newsletter APS Observer [leaked source](https://www.dropbox.com/s/9zubbn9fyi1xjcu/Fiske%20presidential%20guest%20column_APS%20Observer_copy-edited.pdf)
-- 2: The Seven Deadly Sins of Psychology - Chris Chambers [Buy his book on amazon](https://www.amazon.com/Seven-Deadly-Sins-Psychology-Scientific/dp/0691158908) [Chris Chambers' university page](http://psych.cf.ac.uk/contactsandpeople/chambersc1.php)
-
+- 2: The Seven Deadly Sins of Psychology - Chris Chambers [Buy his book on amazon](https://www.amazon.com/Seven-Deadly-Sins-Psychology-Scientific/dp/0691158908) and visit [Chris Chambers' university page here.](http://psych.cf.ac.uk/contactsandpeople/chambersc1.php)
+- 3: Ars Technica article - Cathleen O'Grady - 2017-04-24 <https://arstechnica.com/science/2017/04/the-peer-reviewed-saga-of-mindless-eating-mindless-research-is-bad-too/>
 
 ### Notes:
 
