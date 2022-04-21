@@ -9,6 +9,7 @@ Licence: CC0 see licence file (open, non copyright, do what you like, public dom
 
 ## What are methodological researchers?
 
+- "Mean, shrill, angry nothings."
 - online vigilantes
 - self-appointed data police
 - methodological terrorism (1)
